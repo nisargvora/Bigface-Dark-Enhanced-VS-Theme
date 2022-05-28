@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKxhEFuzZ6JUXDpWp2D94LWgXjqN+GLSsULdUJTVzbAD5bhg44E8+//5v4hufBIUN+G5ZFhR4iufyrX6qQ4CvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nvora\\Documents\\GitHub\\Visual-Studio-Extensions\\Themes\\2022\\Bigface Enhanced\\Bigface Dark Enhanced\\Bigface Dark Enhanced\\Bigface Dark Enhanced.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nvora\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}

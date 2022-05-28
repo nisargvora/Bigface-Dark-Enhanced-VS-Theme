@@ -1,0 +1,13 @@
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\bin\Release\Bigface Dark Enhanced.dll
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\bin\Release\Bigface Dark Enhanced.pdb
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\bin\Release\Bigface Dark Enhanced.vsix
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\bin\Release\extension.vsixmanifest
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\Bigface Dark Enhanced.csproj.AssemblyReference.cache
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\_EmptyResource.resources
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\Bigface Dark Enhanced.csproj.GenerateResource.cache
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\Bigface Dark Enhanced.csproj.CoreCompileInputs.cache
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\Bigface Dark Enhanced.dll
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\Bigface Dark Enhanced.pdb
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\extension.vsixmanifest
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\files.json
+C:\Users\nvora\Documents\GitHub\Visual-Studio-Extensions\Themes\2022\Bigface Enhanced\Bigface Dark Enhanced\Bigface Dark Enhanced\obj\Release\createTemplateManifests.cache
